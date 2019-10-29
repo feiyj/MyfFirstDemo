@@ -14,6 +14,7 @@ public class Tester {
 		System.out.println("777");
 		System.out.println("888");
 		System.out.println("999");
+		System.out.println("www");
 	}
 
 }
